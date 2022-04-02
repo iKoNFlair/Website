@@ -1,0 +1,150 @@
+body{
+    text-align: center;
+    background-color: rgba(144, 248, 248, 0.63);
+}
+
+.top-container{
+    margin-top: 190px;
+}
+.top-joystick{
+    margin-top: 20px;
+    width: 12%;
+    position: absolute;
+    right: 15%;
+    top: 50px;
+
+}
+
+.bottom-joypad{
+    width: 18%;
+    position: absolute;
+    top: 298px;
+    left: 10%;
+    transform: rotate(320deg);
+}
+
+.gamer{
+    width: 298px;
+}
+
+span{
+    text-decoration: underline;
+}
+
+h1{
+    letter-spacing: 5px;
+    margin-top: 50px auto 0 auto;
+    font-size: 3rem ;
+    font-family: 'Roboto Slab', serif;
+    color: rgb(0, 168, 168);
+}
+
+h2{
+    font-family: 'Anybody', cursive;
+    color: rgb(0, 168, 168); 
+}
+
+p{
+    font-size: 1.2rem;
+}
+.top-container p{
+    font-size: 2rem;
+    font-family: 'BIZ UDPMincho', serif;
+    color: rgb(0, 168, 168);
+}
+
+.profile h2{
+    margin: 50px auto 50px;
+}
+.middle-container img{
+   border-radius: 100%;
+   width: 20%;
+
+}
+
+hr{
+    margin: 50px;
+    width: 90%;
+    border-color: black;
+}
+.code-img{
+    border-radius: 100%;
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+/* 
+.code-text{
+     clear: left; 
+ } */ 
+
+.car-img{
+    border-radius: 100%;
+    width: 136px;
+    height: 136px;
+    margin-left: 16px;
+    float: right;
+}
+/* 
+.car-text{
+  clear: right; 
+} */
+.skill-row{
+    width: 50%;
+    margin: 80px auto 80px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.contact-me h2{
+    margin-bottom: 80px;
+}
+.contact-me p{
+    margin:20px auto 40px ;
+
+}
+.contact-me .btn{
+    background-color: rgb(16, 137, 236);
+    padding: 9px 16px 9px 16px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bottom-container{
+    margin: 100px -20px -10px;
+    background-color: rgb(38, 163, 163);
+    padding: 40px 20px 30px 20px;
+}
+
+a{
+    text-decoration: none;
+    margin: 20px 15px 50px;
+    color:rgb(149, 229, 229);
+}
+
+
+a:hover{
+    color: aliceblue;
+}
+
+.bottom-container p{
+    margin: 38px auto 0px;
+    font-size: 14px;
+    color: white;
+}
+
+.btn:hover{
+    background-color: rgb(8, 111, 196) ;
+}
+
+.contact-p{
+    width: 30%;
+}
+
+hr{
+    border: dotted grey;
+    width: 5%;
+    margin: 100px auto;
+    border-bottom: none;
+}
